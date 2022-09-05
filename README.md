@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=wave?text=IlmunKu!&fontSize=10)
+![header](https://capsule-render.vercel.app/api?type=wave0)
 
