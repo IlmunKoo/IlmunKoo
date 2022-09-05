@@ -10,9 +10,11 @@
 :computer:Tech Stack
 
 
-<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=black"><img src="https://img.shields.io/badge/Tensorflow-#FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=black"><img src="https://img.shields.io/badge/Keras-#D00000?style=for-the-badge&logo=Keras&logoColor=black">
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/Tensorflow-#FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=black">
+<img src="https://img.shields.io/badge/Keras-#D00000?style=for-the-badge&logo=Keras&logoColor=black">
 
-
+<!-- <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black"> -->
 
 :mag_right:Used as the main
 
