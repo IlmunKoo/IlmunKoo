@@ -7,10 +7,13 @@
 현재 대학교에 재학중이며 뭐든지 배우려는 자세로 학습에 임하고 있습니다.
 
 
-<img src="https://img.shields.io/badge/Python-색코드?style=for-the-badge&logo=python&logoColor=black">
-<img src="https://img.shields.io/badge/Tensorflow-색코드?style=for-the-badge&logo=Tensorflow&logoColor=black">
-<img src="https://img.shields.io/badge/Keras-색코드?style=for-the-badge&logo=Keras&logoColor=black">
+<img src="https://img.shields.io/badge/Python-색코드?style=for-the-badge&logo=python&logoColor=black"><img src="https://img.shields.io/badge/Tensorflow-색코드?style=for-the-badge&logo=Tensorflow&logoColor=black"><img src="https://img.shields.io/badge/Keras-색코드?style=for-the-badge&logo=Keras&logoColor=black">
 
+
+Tech Stack
+
+
+Used as the main
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIlmunKoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
