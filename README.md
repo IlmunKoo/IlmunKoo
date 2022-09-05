@@ -7,6 +7,12 @@
 
 현재 대학교에 재학중이며 뭐든지 배우려는 자세로 학습에 임하고 있습니다.
 
+:postbox:Contact
+'''
+mun90505@naver.com
+'''
+
+
 
 
 :computer:Tech Stack
