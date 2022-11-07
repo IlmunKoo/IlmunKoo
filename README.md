@@ -4,15 +4,11 @@
 
 
 
-반갑습니다.:grinning:
+구일문
 
-제 이름은 구일문이고 AI와 백엔드를 공부하고 있어요!
-
-현재 대학교에 재학중이며 뭐든지 배우려는 자세로 학습에 임하고 있습니다.
-
-딥러닝을 활용하여 데이터를 분류하고 예측하는 일에 관심이 많습니다.
-
-
+* 2022.10 UAV Payload Detection Using Deep Learning and Data Augmentation accepted as Regular Paper(8 pages) by IEEE-International Conference on Robotic Computing 
+* 2022.4.17~8.5 K-SW Square Purdue
+* 2022.1.3~2.25 MOBLDI Intern (AI Recommendation System)
 
 
 
