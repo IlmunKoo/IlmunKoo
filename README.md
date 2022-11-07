@@ -6,9 +6,25 @@
 
 구일문
 
-* 2022.10 UAV Payload Detection Using Deep Learning and Data Augmentation accepted as Regular Paper(8 pages) by IEEE-International Conference on Robotic Computing 
-* 2022.4.17~8.5 K-SW Square Purdue
-* 2022.1.3~2.25 MOBLDI Intern (AI Recommendation System)
+* 2022.10 :  
+
+
+UAV Payload Detection Using Deep Learning and Data Augmentation accepted as Regular Paper(8 pages) 
+
+
+by IEEE-International Conference on Robotic Computing 
+
+
+* 2022.4.17~8.5 
+
+
+K-SW Square Purdue
+
+
+* 2022.1.3~2.25 
+
+
+MOBLDI Intern (AI Recommendation System)
 
 
 
