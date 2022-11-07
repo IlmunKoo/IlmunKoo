@@ -13,7 +13,7 @@ by IEEE-International Conference on Robotic Computing
 
 
 
-(https://github.com/IlmunKoo/KSW-Purdue/blob/main/WhatsTodaysLunch/UAV%20Payload%20Detection%20Using%20Deep%20Learning%20and%20Data%20Augmentation.pdf)
+https://github.com/IlmunKoo/KSW-Purdue/blob/main/WhatsTodaysLunch/UAV%20Payload%20Detection%20Using%20Deep%20Learning%20and%20Data%20Augmentation.pdf
 
 
 
