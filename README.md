@@ -13,7 +13,7 @@ by IEEE-International Conference on Robotic Computing
 
 
 
-(Paper) A Large-Scale UAV Audio Dataset and Audio-Based UAV Classification Using CNN accepted as Short Paper(4 pages)
+* 2022.10 :  (Paper) A Large-Scale UAV Audio Dataset and Audio-Based UAV Classification Using CNN accepted as Short Paper(4 pages)
 
 
 by IEEE-International Conference on Robotic Computing
