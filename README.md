@@ -22,13 +22,13 @@ by IEEE-International Conference on Robotic Computing
 
 
 
-* 2022.4.17~8.5 :  (Program) K-SW Square Purdue Supported by IITP
+* 2022.4.17~8.5 :  (Program) [K-SW Square Purdue](https://github.com/IlmunKoo/KSW-Purdue/tree/main/WhatsTodaysLunch) Supported by IITP
 
 
 * 2022.1.3~2.25 :  MOBLDI Intern (AI Recommendation System)
 
 
-* 2020.3~2020.10:  Likelion (Lecture Rating Service)
+* 2020.3~2020.10:  Likelion [(Lecture Rating Service)](https://github.com/IlmunKoo/Lecture-Rating-Service-)
 
 
 
