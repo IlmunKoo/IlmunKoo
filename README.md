@@ -4,7 +4,7 @@
 
 
 
-구일문
+구일문([자기소개서](https://github.com/IlmunKoo/IlmunKoo/blob/main/구일문%20자기소개서.docx))
 
 * 2023.1 ~ 2023.3 : Kbank Fintech R&D (Big Data & AI) Internship
 
