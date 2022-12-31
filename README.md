@@ -8,7 +8,7 @@
 
 * 2023.1 ~ 2023.3 : Kbank Fintech R&D (Big Data & AI) Internship
 
-* 2022.10 :  (Paper) UAV Payload Detection Using Deep Learning and Data Augmentation accepted as Regular Paper(8 pages) 
+* 2022.10 :  (Paper) [UAV Payload Detection Using Deep Learning and Data Augmentation](https://github.com/IlmunKoo/KSW-Purdue/blob/main/WhatsTodaysLunch/UAV%20Payload%20Detection%20Using%20Deep%20Learning%20and%20Data%20Augmentation.pdf) accepted as Regular Paper(8 pages) 
 
 
 by IEEE-International Conference on Robotic Computing 
