@@ -6,8 +6,6 @@
 
 구일문
 
-* 2023.1 ~ 2023.3 : Kbank Fintech R&D (Big Data & AI) Internship
-
 * 2022.10 :  (Paper) [UAV Payload Detection Using Deep Learning and Data Augmentation](https://github.com/IlmunKoo/KSW-Purdue/blob/main/WhatsTodaysLunch/UAV%20Payload%20Detection%20Using%20Deep%20Learning%20and%20Data%20Augmentation.pdf) accepted as Regular Paper(8 pages) 
 
 
@@ -25,9 +23,6 @@ by IEEE-International Conference on Robotic Computing
 
 
 * 2022.4.17~8.5 :  (Program) [K-SW Square Purdue](https://github.com/IlmunKoo/KSW-Purdue/tree/main/WhatsTodaysLunch) Supported by IITP
-
-
-* 2022.1.3~2.25 :  MOBLDI Intern (AI Recommendation System)
 
 
 * 2020.3~2020.10:  Likelion [(Lecture Rating Service)](https://github.com/IlmunKoo/Lecture-Rating-Service-)
